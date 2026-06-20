@@ -1,0 +1,19 @@
+{
+  "_notes": "Fibrous vegetables — generally very low calorie/carb density, high volume. Great for filling out meals without big macro cost.",
+  "foods": [
+    { "name": "Broccoli", "serving": "1 cup cooked", "calories": 55, "protein": 4, "carbs": 11, "fat": 0.5 },
+    { "name": "Spinach", "serving": "1 cup cooked", "calories": 41, "protein": 5, "carbs": 7, "fat": 0.5 },
+    { "name": "Kale", "serving": "1 cup cooked", "calories": 36, "protein": 2.5, "carbs": 7, "fat": 0.5 },
+    { "name": "Bell peppers", "serving": "1 cup, raw", "calories": 30, "protein": 1, "carbs": 7, "fat": 0 },
+    { "name": "Zucchini", "serving": "1 cup cooked", "calories": 27, "protein": 2, "carbs": 6, "fat": 0 },
+    { "name": "Asparagus", "serving": "1 cup cooked", "calories": 40, "protein": 4, "carbs": 7, "fat": 0.5 },
+    { "name": "Cauliflower", "serving": "1 cup cooked", "calories": 28, "protein": 2, "carbs": 5, "fat": 0 },
+    { "name": "Brussels sprouts", "serving": "1 cup cooked", "calories": 56, "protein": 4, "carbs": 11, "fat": 0.5 },
+    { "name": "Carrots", "serving": "1 cup, raw", "calories": 52, "protein": 1, "carbs": 12, "fat": 0 },
+    { "name": "Cucumber", "serving": "1 cup, raw", "calories": 16, "protein": 1, "carbs": 4, "fat": 0 },
+    { "name": "Salad greens (mixed)", "serving": "2 cups, raw", "calories": 20, "protein": 2, "carbs": 4, "fat": 0 },
+    { "name": "Green beans", "serving": "1 cup cooked", "calories": 44, "protein": 2, "carbs": 10, "fat": 0 },
+    { "name": "Mushrooms", "serving": "1 cup cooked", "calories": 44, "protein": 3, "carbs": 8, "fat": 0.5 },
+    { "name": "Tomatoes", "serving": "1 cup, raw", "calories": 32, "protein": 1.5, "carbs": 7, "fat": 0 }
+  ]
+}

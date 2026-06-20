@@ -1,0 +1,15 @@
+{
+  "_notes": "Mostly carbs with fiber and micronutrients. Good for satisfying sweet cravings within macros.",
+  "foods": [
+    { "name": "Berries (mixed)", "serving": "1 cup", "calories": 65, "protein": 1, "carbs": 15, "fat": 0.5 },
+    { "name": "Bananas", "serving": "1 medium", "calories": 105, "protein": 1, "carbs": 27, "fat": 0 },
+    { "name": "Apples", "serving": "1 medium", "calories": 95, "protein": 0.5, "carbs": 25, "fat": 0 },
+    { "name": "Oranges", "serving": "1 medium", "calories": 62, "protein": 1, "carbs": 15, "fat": 0 },
+    { "name": "Grapes", "serving": "1 cup", "calories": 104, "protein": 1, "carbs": 27, "fat": 0 },
+    { "name": "Mango", "serving": "1 cup", "calories": 99, "protein": 1.5, "carbs": 25, "fat": 0.5 },
+    { "name": "Pineapple", "serving": "1 cup", "calories": 82, "protein": 1, "carbs": 22, "fat": 0 },
+    { "name": "Watermelon", "serving": "1 cup", "calories": 46, "protein": 1, "carbs": 11, "fat": 0 },
+    { "name": "Pears", "serving": "1 medium", "calories": 101, "protein": 0.5, "carbs": 27, "fat": 0 },
+    { "name": "Dried fruit", "serving": "1/4 cup", "calories": 110, "protein": 1, "carbs": 29, "fat": 0 }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "_notes": "Fats are calorie-dense — small servings carry real macro weight. Watch portions here more than anywhere else.",
+  "foods": [
+    { "name": "Olive oil", "serving": "1 tbsp", "calories": 120, "protein": 0, "carbs": 0, "fat": 14 },
+    { "name": "Avocado", "serving": "1/2 medium", "calories": 120, "protein": 1.5, "carbs": 6, "fat": 11 },
+    { "name": "Almonds", "serving": "1 oz (~23 almonds)", "calories": 164, "protein": 6, "carbs": 6, "fat": 14 },
+    { "name": "Peanut butter", "serving": "2 tbsp", "calories": 190, "protein": 7, "carbs": 7, "fat": 16 },
+    { "name": "Almond butter", "serving": "2 tbsp", "calories": 196, "protein": 7, "carbs": 6, "fat": 18 },
+    { "name": "Walnuts", "serving": "1 oz (~14 halves)", "calories": 185, "protein": 4, "carbs": 4, "fat": 18 },
+    { "name": "Chia seeds", "serving": "1 tbsp", "calories": 60, "protein": 2, "carbs": 5, "fat": 4 },
+    { "name": "Flax seeds (ground)", "serving": "1 tbsp", "calories": 37, "protein": 1.5, "carbs": 2, "fat": 3 },
+    { "name": "Cheese (cheddar)", "serving": "1 oz", "calories": 113, "protein": 7, "carbs": 0.5, "fat": 9 },
+    { "name": "Butter", "serving": "1 tbsp", "calories": 102, "protein": 0, "carbs": 0, "fat": 11.5 },
+    { "name": "Coconut oil", "serving": "1 tbsp", "calories": 117, "protein": 0, "carbs": 0, "fat": 14 },
+    { "name": "Mayo", "serving": "1 tbsp", "calories": 94, "protein": 0, "carbs": 0, "fat": 10 },
+    { "name": "Fatty fish (salmon/mackerel)", "serving": "4 oz cooked", "calories": 233, "protein": 25, "carbs": 0, "fat": 14 }
+  ]
+}

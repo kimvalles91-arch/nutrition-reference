@@ -1,0 +1,26 @@
+{
+  "_notes": "Macros per typical serving. Cals/P/C/F in grams except calories. Cooked weights unless noted. Values are reasonable averages for coaching use, not lab-precise.",
+  "foods": [
+    { "name": "Chicken breast", "serving": "4 oz cooked", "calories": 187, "protein": 35, "carbs": 0, "fat": 4 },
+    { "name": "Chicken thigh (skinless)", "serving": "4 oz cooked", "calories": 220, "protein": 30, "carbs": 0, "fat": 11 },
+    { "name": "Turkey breast", "serving": "4 oz cooked", "calories": 178, "protein": 34, "carbs": 0, "fat": 4 },
+    { "name": "Lean beef (93/7)", "serving": "4 oz cooked", "calories": 230, "protein": 28, "carbs": 0, "fat": 13 },
+    { "name": "93% ground beef", "serving": "4 oz cooked", "calories": 230, "protein": 28, "carbs": 0, "fat": 13 },
+    { "name": "Salmon", "serving": "4 oz cooked", "calories": 233, "protein": 25, "carbs": 0, "fat": 14 },
+    { "name": "White fish (cod/tilapia)", "serving": "4 oz cooked", "calories": 120, "protein": 26, "carbs": 0, "fat": 1 },
+    { "name": "Shrimp", "serving": "4 oz cooked", "calories": 120, "protein": 26, "carbs": 0, "fat": 1 },
+    { "name": "Tuna (canned, in water)", "serving": "1 can (5 oz)", "calories": 130, "protein": 29, "carbs": 0, "fat": 1 },
+    { "name": "Eggs", "serving": "1 large", "calories": 72, "protein": 6, "carbs": 0.4, "fat": 5 },
+    { "name": "Egg whites", "serving": "1/2 cup (4 whites)", "calories": 60, "protein": 13, "carbs": 1, "fat": 0 },
+    { "name": "Greek yogurt (plain, 2%)", "serving": "1 cup", "calories": 150, "protein": 20, "carbs": 9, "fat": 4 },
+    { "name": "Cottage cheese (low-fat)", "serving": "1 cup", "calories": 163, "protein": 28, "carbs": 6, "fat": 2 },
+    { "name": "Tofu", "serving": "4 oz", "calories": 90, "protein": 10, "carbs": 2, "fat": 5 },
+    { "name": "Tempeh", "serving": "4 oz", "calories": 196, "protein": 19, "carbs": 8, "fat": 11 },
+    { "name": "Edamame", "serving": "1 cup, shelled", "calories": 188, "protein": 18, "carbs": 14, "fat": 8 },
+    { "name": "Lentils", "serving": "1 cup cooked", "calories": 230, "protein": 18, "carbs": 40, "fat": 1 },
+    { "name": "Black beans", "serving": "1 cup cooked", "calories": 227, "protein": 15, "carbs": 41, "fat": 1 },
+    { "name": "Chickpeas", "serving": "1 cup cooked", "calories": 269, "protein": 15, "carbs": 45, "fat": 4 },
+    { "name": "Whey protein", "serving": "1 scoop (~30g)", "calories": 120, "protein": 24, "carbs": 3, "fat": 1 },
+    { "name": "Plant protein powder", "serving": "1 scoop (~30g)", "calories": 120, "protein": 21, "carbs": 4, "fat": 2 }
+  ]
+}
